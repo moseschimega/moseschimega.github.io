@@ -28,3 +28,14 @@ font-weight: bold;
   color: white;
   text-align: center;
 }
+.widget{
+  background-color: grey;
+}
+.widget h2{
+  color: white;
+  text-align: center;
+}
+.widget a{
+
+  text-align: center;
+}
