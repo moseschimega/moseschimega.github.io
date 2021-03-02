@@ -30,6 +30,7 @@ font-weight: bold;
 }
 .widget{
   background-color: grey;
+  width: 100%;
 }
 .widget h2{
   color: white;
